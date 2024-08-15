@@ -17,6 +17,9 @@ FULL 3D ENEMY AI in 6 MINUTES! : https://www.youtube.com/watch?v=UjkSFoLxesw
 
 AI Tutorial Series in Unity - NavMeshes, NavMeshAgents, and Configuring Enemies : https://www.youtube.com/playlist?list=PLllNmP7eq6TSkwDN8OO0E8S6CWybSE_xC
 
+== GIT ====
+https://www.youtube.com/playlist?list=PLyxSzL3F7485Xgn7novgNxnou8QU6i485
+
 
 
 //
