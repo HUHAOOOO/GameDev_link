@@ -22,4 +22,16 @@ https://www.youtube.com/playlist?list=PLyxSzL3F7485Xgn7novgNxnou8QU6i485
 
 
 
-//
+//======================================================================
+
+Playlist học THUẬT TOÁN :
+
+https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
+
+https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY
+
+https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O
+
+
+
+
