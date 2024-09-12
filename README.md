@@ -56,6 +56,18 @@ Learn Unity Beginner/Intermediate 2024 (FREE COMPLETE Course - Unity Tutorial) /
 Learn Unity Multiplayer (FREE Complete Course, Netcode for Game Objects Unity Tutorial 2023) // 6:20:20 
 : https://www.youtube.com/watch?v=7glCsF9fv3s
 
+^^Unity3d Việt Nam
+
+Free Unity - Zitga - CodeGym - ĐSQMy : 
+https://www.youtube.com/playlist?list=PLE5Rxh1l0Qs5zorOJMa777FzSYoTNreJH
+
+Free Training Unity - Course 01 : 
+https://www.youtube.com/playlist?list=PLE5Rxh1l0Qs7WD6NDmUlP4DL_xETRH91T
+
+Free Training Unity - Course 02 : 
+https://www.youtube.com/playlist?list=PLE5Rxh1l0Qs6Ln6aNLBEgGz6PCgHlbtnf
+
+
 //======================================================================
 
 Playlist học THUẬT TOÁN :
