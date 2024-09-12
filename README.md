@@ -28,6 +28,8 @@ live Stream game dev
 
 https://www.youtube.com/playlist?list=PL3ndGON6uNhrp7VeyUvkg89S3AMe-Wgue
 
+https://youtube.com/playlist?list=PL4MGZa9rm2XpdW-ujYu_dTDenxsKw3RqD&si=zhE0ytd2QoG0G2jT
+
 ^^A SAI 
 
 lớp 1 :https://www.youtube.com/playlist?list=PLMZMma55rYcp69kArosI9_1RjFeuDytVh
