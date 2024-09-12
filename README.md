@@ -21,6 +21,27 @@ AI Tutorial Series in Unity - NavMeshes, NavMeshAgents, and Configuring Enemies 
 https://www.youtube.com/playlist?list=PLyxSzL3F7485Xgn7novgNxnou8QU6i485
 
 
+//======================================================================
+live Stream game dev
+
+Huynn : 
+https://www.youtube.com/playlist?list=PL3ndGON6uNhrp7VeyUvkg89S3AMe-Wgue
+
+A SAI 
+lớp 1 :https://www.youtube.com/playlist?list=PLMZMma55rYcp69kArosI9_1RjFeuDytVh
+lớp 2 : https://www.youtube.com/playlist?list=PL9YFzEkTXjbOYPsp6SlRNENjZmy5VASvJ
+
+CodeMonkey
+C#
+Learn C# Beginner FREE Tutorial Course! [2024]
+ : https://www.youtube.com/watch?v=pReR6Z9rK-o
+Learn C# Intermediate FREE Tutorial Course! [2024]
+ : https://www.youtube.com/watch?v=I6kx-_KXNz4 
+Unity
+Learn Unity Beginner/Intermediate 2024 (FREE COMPLETE Course - Unity Tutorial) // 10:49:40
+: https://www.youtube.com/watch?v=AmGSEH7QcDg
+Learn Unity Multiplayer (FREE Complete Course, Netcode for Game Objects Unity Tutorial 2023) // 6:20:20 
+: https://www.youtube.com/watch?v=7glCsF9fv3s
 
 //======================================================================
 
