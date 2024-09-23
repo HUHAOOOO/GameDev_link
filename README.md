@@ -98,10 +98,11 @@ https://docs.pixquare.art
 
 
 
+#### PLAY GAME
 
-
-
-
+1 Rogue Legacy 2// 2D platform đánh boss đã tay 
+https://www.youtube.com/playlist?list=PLAwWN1A7O-OTkHuddKDJCaqmlOiRGypul
+https://www.youtube.com/playlist?list=PLnHeG0oJcJzBI9S1PLRxvuMG7mJ2rCzg9
 
 
 //
