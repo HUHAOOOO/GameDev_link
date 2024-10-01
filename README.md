@@ -98,6 +98,17 @@ art
 【【星穹铁道】飞霄大捷将军-全动态鼠标指针-哔哩哔哩】 https://b23.tv/uzMfd5u
 
 
+Animation Tutorial
+
+Animation for Anyone
+Alex Grigg // Animation for Anyone
+https://www.youtube.com/playlist?list=PLqKRc0Oi7q20wxXVUNiS15S2MvtSqOtLV
+
+stick man
+https://www.youtube.com/playlist?list=PL7jWXyHWKJ3WDsOBXXUF7xWvj1Qw2NayL
+
+12 Principles of Animation (Official Full Series)
+https://www.youtube.com/watch?v=uDqjIdI4bF4&list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd&index=13
 
 #### PLAY GAME
 
