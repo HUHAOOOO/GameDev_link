@@ -20,6 +20,68 @@ https://www.youtube.com/playlist?list=PLyxSzL3F7485Xgn7novgNxnou8QU6i485
 
 
 //======================================================================
+2D
+
+https://www.youtube.com/playlist?list=PLgOEwFbvGm5o8hayFB6skAfa8Z-mw4dPV
+https://www.youtube.com/playlist?list=PLPa3cUXF8edJJ9JuZ85l67BRr1AjA8NB2
+https://www.youtube.com/playlist?list=PLJBcv4t1EiSxHybkQV0yLs6iCD0xKt8Rx
+https://www.youtube.com/watch?v=HwVw5j8wxPg&list=PLf6aEENFZ4Fv0ifncKE3T05qrI450U_aD
+
+TODO:
+2D Platformer Controller by Bardent
+https://www.youtube.com/playlist?list=PLy78FINcVmjA0zDBhLuLNL1Jo6xNMMq-W
+https://www.youtube.com/playlist?list=PLy78FINcVmjDeHVYh8SMjEP1B_MdSLCSz
+
+Creating a Metroidvania (like Hollow Knight) in Unity by Terresquall
+https://www.youtube.com/playlist?list=PLgXA5L5ma2BvEqzzeLnb7Q_4z8bz_cKmO
+
+Unity Tutorial 2024 - Build a 2D RPG by EPIC Game Dev
+https://www.youtube.com/playlist?list=PLy1Xj-4F5G_cytIH8by-bZ9TVj5qKMlZn
+
+How to make an 2D Top Down RPG in Unity by Brahim Abdelmoumene
+https://www.youtube.com/playlist?list=PL6bqhqO0Ba776ksb3F9P_xmUMT9WvmfFT
+
+[ ] 2D Platformer Crash Course in Unity 2022 by Chris' Tutorials
+https://www.youtube.com/playlist?list=PLyH-qXFkNSxmDU8ddeslEAtnXIDRLPd_V
+
+Unity Tutorials (for beginners and mobile game creators) by FireRaccoon Games
+https://www.youtube.com/playlist?list=PLP76ffwtT0I3FikwIJZua7aTmCrQz-nFQ
+
+[ ] Unity Tutorials by Sasquatch B Studios
+https://www.youtube.com/playlist?list=PLfmYNuLHEy-PQ6j6kki9kmM3Z5CayRSI0
+
+Epic Unity Tutorials by BMo
+https://www.youtube.com/playlist?list=PLhrayuv80FeWPrco0bqfYSHDifVB2PXpW
+
+How to Create a 2D Roguelike Game by Dapper Dino
+https://www.youtube.com/playlist?list=PLS6sInD7ThM3JnoOsur24_3h3dvPpfNA9
+
+Unity Tutorials by ChosenPlay
+https://www.youtube.com/playlist?list=PLcobm0D4LhdEukk1ZPLq1UoCxZEMbA7Qp
+
+Unity 2D Tutorials by Gabriel Aguiar Prod.
+https://www.youtube.com/playlist?list=PLpPd_BKEUoYj9LEKgYeemilQLwqrJJ_Mf
+
+[ ] Game Dev Basics by Lost Relic Games
+https://www.youtube.com/playlist?list=PLB6BAQR-fTkIWYtMnLv0B1jx1FZdeXqOi
+
+Unity Tutorials by Small Hedge Games
+https://www.youtube.com/playlist?list=PL6f7GJBJ0sFv_cMgFH-y4fr4ar4zBG1q_
+
+
+
+
+IOS vs androi
+https://www.youtube.com/watch?v=kgShNcTxMIg
+https://www.youtube.com/playlist?list=PLytjVIyAOStrTBXBuuMR0HjXGIk4DtJrv
+https://www.youtube.com/playlist?list=PLk7v1Z2rk4hjD-53VX9uqX_e6lZF9wSOX
+https://www.youtube.com/playlist?list=PLLH3mUGkfFCWCsGUfwLMnDWdkpQuqW3xa
+
+
+
+
+
+//======================================================================
 live Stream game dev
 
 ^^Huynn : 
