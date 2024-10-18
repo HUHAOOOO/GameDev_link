@@ -1,3 +1,5 @@
+cứ làm game -> bí -> GG
+
 # GameDev_link
 
 Unity Skill System : https://www.youtube.com/playlist?list=PLeJ9e4gM65HH_t7bJz94CD4qRnGTUy5mD
