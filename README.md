@@ -1,5 +1,10 @@
 cứ làm game -> bí -> GG
 
+[]ghi vào mục rảnh đọc hằng ngày
+Rảnh vào xem cho quen
+//sau dùng nhiều mà
+https://docs.unity3d.com/Manual/Unity2D.html
+
 # GameDev_link
 
 Unity Skill System : https://www.youtube.com/playlist?list=PLeJ9e4gM65HH_t7bJz94CD4qRnGTUy5mD
